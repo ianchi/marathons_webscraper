@@ -3,16 +3,16 @@
 Web scrapper notebooks for the big marathons:
 
 - New York
-- Boston
 - Chicago
 - London
-- Berlin
 
 - California
 - Houston
 - Philadelphia
 - Toronto
 - Eugene
+- Revel Charleston
+- Revel Big Bear
 
 Common data fields:
 
